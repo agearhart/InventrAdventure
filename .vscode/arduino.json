@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "port": "COM5",
     "programmer": "arduinoisp",
-    "sketch": "18_Potentiometer\\potentiometer\\potentiometer.ino"
+    "sketch": "21_LCD\\lcd\\lcd.ino"
 }
