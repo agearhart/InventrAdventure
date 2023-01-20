@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM5",
-    "programmer": "arduinoisp"
+    "programmer": "arduinoisp",
+    "sketch": "18_Potentiometer\\potentiometer\\potentiometer.ino"
 }
