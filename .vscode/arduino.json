@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "port": "COM5",
     "programmer": "arduinoisp",
-    "sketch": "24_Orbit\\orbit\\orbit.ino"
+    "sketch": "26_AutoPilot\\autopilot\\autopilot.ino"
 }
