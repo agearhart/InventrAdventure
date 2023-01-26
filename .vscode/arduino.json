@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "port": "COM5",
     "programmer": "arduinoisp",
-    "sketch": "26_2_Journey\\journey\\journey.ino"
+    "sketch": "28_Landing\\landing\\landing.ino"
 }
