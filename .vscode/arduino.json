@@ -2,5 +2,5 @@
     "board": "arduino:avr:uno",
     "port": "COM5",
     "programmer": "arduinoisp",
-    "sketch": "22_MoreLCD\\morelcd\\morelcd.ino"
+    "sketch": "23_LaunchSystem\\launch\\launch.ino"
 }
